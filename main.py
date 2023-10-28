@@ -34,5 +34,5 @@ def compress_files(dir):
                 continue
 
 
-# 
-compress_files("pic")
+# Start the script with the chosen path
+compress_files(path_to_pictures)
