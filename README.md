@@ -1,2 +1,5 @@
 # PyCompress
-# Python for looping through an imagefolder and compressing all images with Pillow
+
+- 👋 Hi, I’m @anderskeis
+
+# Just a small Python script to optimize pictures in nested folders for web usage. You need to input a directory 
