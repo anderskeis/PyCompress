@@ -1,0 +1,7 @@
+services:
+  pycompress:
+    build: .
+    volumes:
+      - ./input:/data/input
+      - ./output:/data/output
+    command: ["/data/input", "--output", "/data/output"]
